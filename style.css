@@ -53,7 +53,7 @@ header  > p {
     max-width: 500px;
     display: block;
     margin: auto;
-    margin-bottom: 20px;
+    padding-bottom: 50px;
 }
 
 nav {
